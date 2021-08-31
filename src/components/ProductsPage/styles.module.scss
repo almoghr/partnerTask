@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .resetBtn{
+        width: auto;
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 1em 3em;
+        border-radius: 1em;
+    }
+    .info{
+        width: 40%;
+        word-wrap: break-word;
+    }
+    .appleVSandroidContainer{
+        display: flex;
+        justify-content: center;
+        img{
+            height: 150px;
+            transition: all ease-in-out .5s;
+            cursor: pointer;
+            &:hover{
+                background-color:darken($color: #2cd5c4, $amount: 10%);
+            }
+
+        }
+        .imgAndroid{
+            width: 25%; 
+            padding: .5em 2.8em;
+       }
+        .imgApple{
+            width: 40%;
+            padding: .5em;
+
+        }
+    }
+}

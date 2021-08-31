@@ -1,0 +1,21 @@
+.modalContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    .modalText{
+        width: 100%;
+        text-align: center;
+        line-height: 3em;
+    }
+    .closeBtn{
+        width: auto;
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 1em 3em;
+        border-radius: 1em;
+
+    }
+}

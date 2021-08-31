@@ -1,0 +1,133 @@
+[{
+    "user":{
+        "username": "partnerUser",
+        "password": "partner123!@#" 
+    },
+    "androidDevices":{
+        "Pixel":{
+            "deviceName": "Google Pixel 5",
+            "imageLink": "https://lh3.googleusercontent.com/MBliKXA8ba6LPlXKof_9993cQyx9JMW1wmAVtxwn_IXJJYBrr19JBtLv55_e3f-XhYkZ0IGe4HtXhZuo2cEFA5CFFLD-bzUMx0tk4ddgRcBv3-X9iSc=w300-rw-e365-v1"
+        },
+        "Samsung-Galaxy":{
+            "deviceName": "Samsung Galaxy S21 5G",
+            "imageLink": "https://lh3.googleusercontent.com/WlBIxgRXhw2HEP-MGSfEOEtFjhBst8l8fPRbIh2vME3Xnv2aDxMmTr37Juu5AQna2FHQdMrKyURYdtf2GtmMrmji1ONkt3eMu9NkT8y-bjmu3fhKY-E=w300-rw-e365-v1"
+        },
+        "Samsung-Galaxy-Ultra":{
+            "deviceName": "Samsung Galaxy S21 Ultra 5G",
+            "imageLink": "https://lh3.googleusercontent.com/YwLY3KpJFJtsnpbCroVb4gzGc0jgF0xzHlHzh6SStlxIVH9to_gRC4-usgwfLzIsUMtSFg4cCPIXpYCnlcwEPZPouPBSLvf-lbwzSKnX-KhzQ_sfspTs=w300-rw-e365-v1"
+        },
+        "Samsung-note":{
+            "deviceName": "Galaxy Note 20",
+            "imageLink": "https://lh3.googleusercontent.com/uGOyIO43aUh8mK4VSzQsf7VLtBJrHPj3ZGpTNJkLgwJ-b0I96jADP_WR4m4uv499y4dXMyh_tvVTMAbU1foDB_ef22vs5DTyEX8hJQ=w300-rw-e365-v1"
+        },
+        "Samsung-Fold":{
+            "deviceName": "Galaxy Z Fold2",
+            "imageLink": "https://lh3.googleusercontent.com/OYEyQTcSe1zqUhhS9AtiQsqiW8eU1Czs1jJXiwNdCNr0SoCuAcpqV5lWp7GAjrR7OmdSA3JmAzqNgKgkOr1-1Dt2SG6S_zQsGYNygA=w300-rw-e365-v1"
+        },
+        "Samsung-Flip":{
+            "deviceName": "Galaxy Z Flip",
+            "imageLink": "https://lh3.googleusercontent.com/khFT04tRnfGq0wN6svSZuUYmUrzkUdFZVy23GqeEC3f7QCdZcuyYswJieKJTPGkTNsa7MImwjT5Np_EWDgUeRjFhtUjfC4XRmjG2uw=w300-rw-e365-v1"
+        },
+        "Samsung-Tab":{
+            "deviceName": "Galaxy Tab S7",
+            "imageLink": "https://lh3.googleusercontent.com/I458S6Jur0JI-PLkjvjKQ60ciX81NxZbZ2l0iJ47_dZneI2BlcfupC3wx-Ym5sWHkpdg3_eyUZ-J1CytHOG_W4B4voEsTNobSVWWJw=w300-rw-e365-v1"
+        },
+        "Nokia 8.3":{
+            "deviceName": "8.3 5G",
+            "imageLink": "https://lh3.googleusercontent.com/oS-fWdc2q4Y21oJMeUCw6vB_8_v63tQEUR-CBjh8wjjIyMcDpcDREeKLo8FsIhA3hfZv7G4VSeIXGV43S22l4soCeKWXQfqnkUhx4g=w300-rw-e365-v1"
+        },
+        "Nokia 1.3":{
+            "deviceName": "1.3 5G",
+            "imageLink": "https://lh3.googleusercontent.com/HoAEyoHUYkrk0X8i-urtDeEFfuPsWFf80OB_U229c2xXkat7U15et-nQhkQRmx467AcJeKVaUlzNjUpNGVz0X__A7V4prRxovf3w1js"
+        },
+        "Oppo":{
+            "deviceName": "Find X2 Pro 5G",
+            "imageLink": "https://lh3.googleusercontent.com/DQro56RaPn0YBdqjPe3C4UB3ZjewV9s53rm1wYjoGnjX9V-FtjBSFfGYrRYjg5_scGbuanwcjWW3D9EM-cvwUVXOJyPwpwhMR7fThw=w300-rw-e365-v1"
+        },
+        "OnePlus":{
+            "deviceName": "OnePlus 9 Pro Galaxy S21 5G",
+            "imageLink": "https://lh3.googleusercontent.com/MBliKXA8ba6LPlXKof_9993cQyx9JMW1wmAVtxwn_IXJJYBrr19JBtLv55_e3f-XhYkZ0IGe4HtXhZuo2cEFA5CFFLD-bzUMx0tk4ddgRcBv3-X9iSc=w300-rw-e365-v1"
+        },
+        "Motorola-Edge":{
+            "deviceName": "Edge Plus 5G",
+            "imageLink": "https://lh3.googleusercontent.com/sX3V1e2FTGtx_OtrgvDOpqVB5d4N3tYMwdP7dE97xYZQVX3cmy6038MEVOmh_ogjvLbh4R4yPJ-L_NQdWJOzKAmeUeCJngBuIEUgfQ=w300-rw-e365-v1"
+        },
+        "Motorola-Razr":{
+            "deviceName": "Razr 5G",
+            "imageLink": "https://lh3.googleusercontent.com/Uwmwnkgj9aRFujAVUfCX2Rj0mE_sXmijdQWzqLAVvPyeSQp7pGR2hFCMMR_xDoeVUXGDkF9bC_F1iEcqYfDeR-pNBIKsJeTWy4Wx96Z1namybeJQMrA=w300-rw-e365-v1"
+        },
+        "Xiaomi-Mi":{
+            "deviceName": "Mi 10 Pro",
+            "imageLink": "https://lh3.googleusercontent.com/jd-2aDmdDnzDoy5-oNB7V0Tl5PWxp-RpBfH9x9lxGC1TLxgfJH49qf5etAa8CmmfdkwYHTNl9Z7oZCX20NyhdXMpWnxur_Im1L1A=w300-rw-e365-v1"
+        },
+        "Xiaomi-Redmi":{
+            "deviceName": "Redmi Go",
+            "imageLink": "https://lh3.googleusercontent.com/pqbz48HljVg0VUsSEop1GyP3J4Y-_Hu0qFu4FuxRBK28-tmf6XooEf43gKe8RVwHUgGKO-p3-rfN7gFppZDYw4fHRD6iUtsfgUpO"
+        },
+        
+        "itel":{
+            "deviceName": "itel S16",
+            "imageLink": "https://lh3.googleusercontent.com/Jg-PW965unNC26up7GHsXodv3I5AcB8c-aiWo-E8wHLljbH46YJ77khJjTKCDdmdE1Y8UFPKjtS4igvNXoZtNJW_DC3-4DjONQI5Op0eGVQTylL_cfwv"
+        },
+        "Vivo":{
+            "deviceName": "V20",
+            "imageLink": "https://lh3.googleusercontent.com/j6WeFT20Z_zQX3WRLQ6X1_0UxrIeAEEutSL75_eQXTHMf3Qyyh9adu3lvJjds4fvvwIUWTX2WWnc5OWjVZTxywAPzQKqr2AB_7VIyhSyXfS-nEmxY3s=w300-rw-e365-v1"
+        },
+        "Sony":{
+            "deviceName": "Xperia 1 ii",
+            "imageLink": "https://lh3.googleusercontent.com/GILRulOhaUQ1liJnaNdIkzCE7c6G-DZBLt8yXarjaEKRpg-a0bvzE_60Tm-RfBzjXccxoHnADhI4tbSZ3Qibk283oW5sRaG3b8dnbek=w300-rw-e365-v1"
+        },
+        "Lenovo-Tab":{
+            "deviceName": "Tab M10 HD (2nd Gen) Tablet",
+            "imageLink": "https://lh3.googleusercontent.com/r1-vb-bercxqXvfBB2I_1myVHQ_ICG2Cv0-Mee6xdgVFdGWFtYu_FfgToK0iTNCaPFRrMN3PV8XM--1d8twFA9KyVvyq_2zqkyFcVVa63SvMELajuA=w300-rw-e365-v1"
+        },
+        "Lenovo-Yoga":{
+            "deviceName": "Yoga Smart Tab",
+            "imageLink": "https://lh3.googleusercontent.com/Q_VlOzEbC-a4Eemaho9vkGUZnQUCKfLu14Ni5vGWNZHQxFinYGxgHGz2qwD-qmBcIYDSMfL7KcykbBuk9PQC8ElVajlAaymPS0RhDwQ=w300-rw-e365-v1"
+        },
+        "Tecno":{
+            "deviceName": "Tecno Spark 4 Lite",
+            "imageLink": "https://lh3.googleusercontent.com/9PQeSHvtYSMDOExKCUjtm4ngAARbnA_8NfwntLWPsNBjVF_ruEYuvBBVRLfMMH0iBltClxqyKr5iznuX3gCDkCaDeXCJ8HSgKnrnxC8"
+        }
+    },
+    "appleDevices":{
+        "iPhone 12 Pro":{
+            "deviceName": "iPhone 12 Pro",
+            "imageLink": "https://www.apple.com/v/iphone/home/az/images/overview/compare/compare_iphone_12_pro__gmn3556ju3am_large.jpg"
+        },
+        "iPhone 12":{
+            "deviceName": "iPhone 12",
+            "imageLink": "https://www.apple.com/v/iphone/home/az/images/overview/compare/compare_iphone_12__btq63lk8td7m_large.jpg"
+        },
+        "iPhone SE":{
+            "deviceName": "iPhone SE",
+            "imageLink": "https://www.apple.com/v/iphone/home/az/images/overview/compare/compare_iphone_se__1uyg4tzyd4ya_large.jpg"
+        },
+        "iPhone 11":{
+            "deviceName": "iPhone 11",
+            "imageLink": "https://www.apple.com/v/iphone/home/az/images/overview/compare/compare_iphone_11__bzjboswm5hbm_large.jpg"
+        },
+        "iPhone XR":{
+            "deviceName": "iPhone XR",
+            "imageLink": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-black-select-201809?wid=940&hei=1112&fmt=p-jpg&qlt=95&.v=1551226038992"
+        },
+        "iPad Pro":{
+            "deviceName": "iPhone XR",
+            "imageLink": "https://www.apple.com/v/ipad/home/bo/images/overview/compare_ipad_pro__erf9x8mw04sy_large.png"
+        },
+        "iPad Air":{
+            "deviceName": "iPad Air",
+            "imageLink": "https://www.apple.com/v/ipad/home/bo/images/overview/compare_ipad_air__bxjv33pk6nte_large.png"
+        },
+        "iPad":{
+            "deviceName": "iPad",
+            "imageLink": "https://www.apple.com/v/ipad/home/bo/images/overview/compare_ipad_10_2__fwgwy7jydtea_large.png"
+        },
+        "iPad mini":{
+            "deviceName": "iPad Mini",
+            "imageLink": "https://www.apple.com/v/ipad/home/bo/images/overview/compare_ipad_mini__czcsk9ukpeie_large.png"
+        }
+        
+    }
+
+}]
