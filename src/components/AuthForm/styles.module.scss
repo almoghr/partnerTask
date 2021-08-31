@@ -1,0 +1,35 @@
+.authContainer{
+    margin-top: 3em;
+    border: 4px solid white;
+    padding: 4em;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .inputAndLabelBox{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    label{
+        margin: 1em 0;
+    }
+    input{
+        padding: 1em;
+        border-radius: 6px;
+        outline: none;
+        border: none;
+    }
+    button{
+        margin: 1em;
+        width: auto;
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 1em 3em;
+        border-radius: 1em;
+
+    }
+}

@@ -22,9 +22,10 @@ const Card = ({ deviceName, imageLink, isAppleClicked, isAndroidClicked }) => {
     if (isAppleClicked) {
       setWhichIsClicked("Apple");
     }
-    if (isAndroidClicked) {
+    else if (isAndroidClicked) {
       setWhichIsClicked("Android");
-    } else {
+    } 
+    else {
       setWhichIsClicked("");
     }
   };

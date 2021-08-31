@@ -1,7 +1,9 @@
-import React from "react";
+import React, {useEffect} from "react";
 import { useSelector } from "react-redux";
 import styles from './styles.module.scss'
 const DeviceChosenModal = ({ close, whichIsClicked }) => {
+    
+    useEffect(()=>{console.log(whichIsClicked)},[whichIsClicked])
 
   const singleDevice = useSelector((state) => state.devices.singleDevice);
   const auth = useSelector((state) => state.auth.user);
